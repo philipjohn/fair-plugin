@@ -12,7 +12,7 @@
  * GitHub Plugin URI: https://github.com/fairpm/fair-plugin
  * Primary Branch: main
  */
-
+//foobar
 namespace FAIR;
 
 const VERSION = '0.1';
